@@ -58,7 +58,7 @@ The very first step is to fork this repository to your personal GitHub account a
 
 ### Associate Project with Pluralsight
 
-After cloning this repository down, copy the ".projects_config" file from the [HelloPluralsightProject](#) and save that to this directory. This will allow your status to be reflected on the website while you're working through the project locally!
+After cloning this repository down, copy the ".projects_config" file from the [HelloPluralsightProject](https://saandeepatn.github.io/HelloPluralsightProject/) and save that to this directory. This will allow your status to be reflected on the website while you're working through the project locally!
 
 [//]: # (install: "npm install")
 ### Installation
